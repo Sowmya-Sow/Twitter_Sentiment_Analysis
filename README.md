@@ -86,15 +86,25 @@ Confusion matrix heatmap
 🧭 System Pipeline
 
 Raw Tweets 
+
    ↓
+   
 Text Cleaning 
+
    ↓
+   
 TF-IDF Vectorization 
+
    ↓
+   
 Model Training 
+
    ↓
+   
 Evaluation 
+
    ↓
+   
 Prediction
 
 🧰 Technology Stack
